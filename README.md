@@ -24,9 +24,9 @@ Power BI also shows total payment of 482.70M, made up of 388.96M principal recov
 | Tableau | Dashboard with KPI tiles, 5 charts, a state-wise top 10 and filters |
 
 ## Dashboards
-![Excel Dashboard](pictures/Excel_Dashboard(BA).png)
-![Power BI Dashboard](images/PowerBI_Dashboard(BA).png)
-![Tableau Dashboard](images/Tableau_Dashboard(BA).png)
+![Excel Dashboard](Presentation/Excel_Dashboard(BA).png)
+![Power BI Dashboard](Presentation/PowerBI_Dashboard(BA).png)
+![Tableau Dashboard](Presentation/Tableau_Dashboard(BA).png)
 
 Each dashboard covers year-wise loan amount, grade and sub grade revolving balance, verified vs not verified, state-wise loan status, and home ownership vs payments.
 
