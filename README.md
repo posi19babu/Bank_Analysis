@@ -35,7 +35,7 @@ Power BI also shows total payment of 482.70M, made up of 388.96M principal recov
 
 Each dashboard covers year-wise loan amount, grade and sub grade revolving balance, verified vs not verified, state-wise loan status, and home ownership vs payments.
 
-All three dashboards are in the project presentation: [View the full project presentation (PDF)](presentation/Bank Analysis.pdf)
+All three dashboards are in the project presentation: [View the full project presentation (PDF)](presentation/Bank_Analysis.pdf)
 
 ## SQL Queries
 | Query | Purpose |
