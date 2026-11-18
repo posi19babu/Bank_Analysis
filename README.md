@@ -24,7 +24,7 @@ Power BI also shows total payment of 482.70M, made up of 388.96M principal recov
 | Tableau | Dashboard with KPI tiles, 5 charts, a state-wise top 10 and filters |
 
 ## Dashboards
-![Excel Dashboard](images/Excel_Dashboard(BA).png)
+
 ![Power BI Dashboard](images/PowerBI_Dashboard(BA).png)
 ![Tableau Dashboard](images/Tableau_Dashboard(BA).png)
 
