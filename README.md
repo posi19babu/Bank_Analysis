@@ -64,9 +64,18 @@ Bank_loan_analysis/
 └── README.md
 ```
 
-## Project Team (DA - P1435, Group 01)
-Posibabu, Jagadeesh, Bhaskar Sai Charan, Srushti Vikas Sakhare, Soniya, Vandana, Lakshmi Mithra
+## Project Team (DA - P1435)
+- Posibabu
+- Jagadeesh
+- Bhaskar Sai Charan
+- Srushti Vikas Sakhare
+- Soniya
+- Vandana
+- Lakshmi Mithra
 
 ## Author
-**Menni Posibabu**, Aspiring Data Analyst
-LinkedIn: (add your profile link)
+**Menni Posibabu**, 
+Aspiring Data Analyst | Excel, MySQL, Power BI, Tableau
+LinkedIn: (www.linkedin.com/in/posibabumenni)
+GitHub: [posi19babu](http://github.com/posi19babu)
+email: posibabu414@gmail.com
